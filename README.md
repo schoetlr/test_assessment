@@ -1,3 +1,4 @@
+Luke Schoettinger
 ## Test Assessment
 
 Welcome to the VCS test assessment. You'll be writing code to make RSpec tests pass.
